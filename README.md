@@ -33,7 +33,7 @@ The transformed JSON is structured to have a dataset with an ID and a source arr
 A JavaScript function that reads the source JSON, dynamically identifies dimensions and measures, and transforms the data into the required output format.
 The code is reusable and adaptable to various source JSON structures without modification.
 
-## Output Screenshots:
+## Output Screenshot:
 
 ![image](https://github.com/user-attachments/assets/03d4ea18-4bfd-4e32-9b5b-fe50be618f06)
 
