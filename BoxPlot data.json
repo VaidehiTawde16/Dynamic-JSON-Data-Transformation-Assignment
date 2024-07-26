@@ -1,0 +1,758 @@
+{
+    "data": [
+        {
+            "dimensions_0": {
+                "id": "Alberta",
+                "label": "Alberta"
+            },
+            "dimensions_1": {
+                "id": "Even Better",
+                "label": "Even Better"
+            },
+            "measures_0": {
+                "raw": 1576454.4,
+                "formatted": "1,576,454.40",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Alberta",
+                "label": "Alberta"
+            },
+            "dimensions_1": {
+                "id": "Hermanos",
+                "label": "Hermanos"
+            },
+            "measures_0": {
+                "raw": 6044736,
+                "formatted": "6,044,736.00",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Alberta",
+                "label": "Alberta"
+            },
+            "dimensions_1": {
+                "id": "Jumbo",
+                "label": "Jumbo"
+            },
+            "measures_0": {
+                "raw": 630060.1,
+                "formatted": "630,060.10",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Alberta",
+                "label": "Alberta"
+            },
+            "dimensions_1": {
+                "id": "Sunset",
+                "label": "Sunset"
+            },
+            "measures_0": {
+                "raw": 5026376.1,
+                "formatted": "5,026,376.10",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "British Columbia",
+                "label": "British Columbia"
+            },
+            "dimensions_1": {
+                "id": "Even Better",
+                "label": "Even Better"
+            },
+            "measures_0": {
+                "raw": 40293926.1,
+                "formatted": "40,293,926.10",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "British Columbia",
+                "label": "British Columbia"
+            },
+            "dimensions_1": {
+                "id": "Hermanos",
+                "label": "Hermanos"
+            },
+            "measures_0": {
+                "raw": 129722271.8,
+                "formatted": "129,722,271.80",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "British Columbia",
+                "label": "British Columbia"
+            },
+            "dimensions_1": {
+                "id": "Jumbo",
+                "label": "Jumbo"
+            },
+            "measures_0": {
+                "raw": 13424314.7,
+                "formatted": "13,424,314.70",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "British Columbia",
+                "label": "British Columbia"
+            },
+            "dimensions_1": {
+                "id": "Sunset",
+                "label": "Sunset"
+            },
+            "measures_0": {
+                "raw": 114362962.1,
+                "formatted": "114,362,962.10",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "California",
+                "label": "California"
+            },
+            "dimensions_1": {
+                "id": "Even Better",
+                "label": "Even Better"
+            },
+            "measures_0": {
+                "raw": 111789376.1,
+                "formatted": "111,789,376.10",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "California",
+                "label": "California"
+            },
+            "dimensions_1": {
+                "id": "Hermanos",
+                "label": "Hermanos"
+            },
+            "measures_0": {
+                "raw": 369988154.2,
+                "formatted": "369,988,154.20",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "California",
+                "label": "California"
+            },
+            "dimensions_1": {
+                "id": "Jumbo",
+                "label": "Jumbo"
+            },
+            "measures_0": {
+                "raw": 37891767.6,
+                "formatted": "37,891,767.60",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "California",
+                "label": "California"
+            },
+            "dimensions_1": {
+                "id": "Sunset",
+                "label": "Sunset"
+            },
+            "measures_0": {
+                "raw": 311691053.3,
+                "formatted": "311,691,053.30",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Guerrero",
+                "label": "Guerrero"
+            },
+            "dimensions_1": {
+                "id": "Even Better",
+                "label": "Even Better"
+            },
+            "measures_0": {
+                "raw": 12436756.5,
+                "formatted": "12,436,756.50",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Guerrero",
+                "label": "Guerrero"
+            },
+            "dimensions_1": {
+                "id": "Hermanos",
+                "label": "Hermanos"
+            },
+            "measures_0": {
+                "raw": 41967644.3,
+                "formatted": "41,967,644.30",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Guerrero",
+                "label": "Guerrero"
+            },
+            "dimensions_1": {
+                "id": "Jumbo",
+                "label": "Jumbo"
+            },
+            "measures_0": {
+                "raw": 4813759.2,
+                "formatted": "4,813,759.20",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Guerrero",
+                "label": "Guerrero"
+            },
+            "dimensions_1": {
+                "id": "Sunset",
+                "label": "Sunset"
+            },
+            "measures_0": {
+                "raw": 35673673.7,
+                "formatted": "35,673,673.70",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Ontario",
+                "label": "Ontario"
+            },
+            "dimensions_1": {
+                "id": "Even Better",
+                "label": "Even Better"
+            },
+            "measures_0": {
+                "raw": 59130476.8,
+                "formatted": "59,130,476.80",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Ontario",
+                "label": "Ontario"
+            },
+            "dimensions_1": {
+                "id": "Hermanos",
+                "label": "Hermanos"
+            },
+            "measures_0": {
+                "raw": 206052280.1,
+                "formatted": "206,052,280.10",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Ontario",
+                "label": "Ontario"
+            },
+            "dimensions_1": {
+                "id": "Jumbo",
+                "label": "Jumbo"
+            },
+            "measures_0": {
+                "raw": 20335269.6,
+                "formatted": "20,335,269.60",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Ontario",
+                "label": "Ontario"
+            },
+            "dimensions_1": {
+                "id": "Sunset",
+                "label": "Sunset"
+            },
+            "measures_0": {
+                "raw": 176279109.2,
+                "formatted": "176,279,109.20",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Oregon",
+                "label": "Oregon"
+            },
+            "dimensions_1": {
+                "id": "Even Better",
+                "label": "Even Better"
+            },
+            "measures_0": {
+                "raw": 90617408.3,
+                "formatted": "90,617,408.30",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Oregon",
+                "label": "Oregon"
+            },
+            "dimensions_1": {
+                "id": "Hermanos",
+                "label": "Hermanos"
+            },
+            "measures_0": {
+                "raw": 317300799.7,
+                "formatted": "317,300,799.70",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Oregon",
+                "label": "Oregon"
+            },
+            "dimensions_1": {
+                "id": "Jumbo",
+                "label": "Jumbo"
+            },
+            "measures_0": {
+                "raw": 32835311,
+                "formatted": "32,835,311.00",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Oregon",
+                "label": "Oregon"
+            },
+            "dimensions_1": {
+                "id": "Sunset",
+                "label": "Sunset"
+            },
+            "measures_0": {
+                "raw": 270055986.7,
+                "formatted": "270,055,986.70",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Quebec",
+                "label": "Quebec"
+            },
+            "dimensions_1": {
+                "id": "Even Better",
+                "label": "Even Better"
+            },
+            "measures_0": {
+                "raw": 7295200.2,
+                "formatted": "7,295,200.20",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Quebec",
+                "label": "Quebec"
+            },
+            "dimensions_1": {
+                "id": "Hermanos",
+                "label": "Hermanos"
+            },
+            "measures_0": {
+                "raw": 25524461.9,
+                "formatted": "25,524,461.90",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Quebec",
+                "label": "Quebec"
+            },
+            "dimensions_1": {
+                "id": "Jumbo",
+                "label": "Jumbo"
+            },
+            "measures_0": {
+                "raw": 2698773.9,
+                "formatted": "2,698,773.90",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Quebec",
+                "label": "Quebec"
+            },
+            "dimensions_1": {
+                "id": "Sunset",
+                "label": "Sunset"
+            },
+            "measures_0": {
+                "raw": 21943323.6,
+                "formatted": "21,943,323.60",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Sonora",
+                "label": "Sonora"
+            },
+            "dimensions_1": {
+                "id": "Even Better",
+                "label": "Even Better"
+            },
+            "measures_0": {
+                "raw": 8394573.3,
+                "formatted": "8,394,573.30",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Sonora",
+                "label": "Sonora"
+            },
+            "dimensions_1": {
+                "id": "Hermanos",
+                "label": "Hermanos"
+            },
+            "measures_0": {
+                "raw": 26364227.1,
+                "formatted": "26,364,227.10",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Sonora",
+                "label": "Sonora"
+            },
+            "dimensions_1": {
+                "id": "Jumbo",
+                "label": "Jumbo"
+            },
+            "measures_0": {
+                "raw": 2654143.7,
+                "formatted": "2,654,143.70",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Sonora",
+                "label": "Sonora"
+            },
+            "dimensions_1": {
+                "id": "Sunset",
+                "label": "Sunset"
+            },
+            "measures_0": {
+                "raw": 24288627.7,
+                "formatted": "24,288,627.70",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Texas",
+                "label": "Texas"
+            },
+            "dimensions_1": {
+                "id": "Even Better",
+                "label": "Even Better"
+            },
+            "measures_0": {
+                "raw": 28257149.3,
+                "formatted": "28,257,149.30",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Texas",
+                "label": "Texas"
+            },
+            "dimensions_1": {
+                "id": "Hermanos",
+                "label": "Hermanos"
+            },
+            "measures_0": {
+                "raw": 101729487.3,
+                "formatted": "101,729,487.30",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Texas",
+                "label": "Texas"
+            },
+            "dimensions_1": {
+                "id": "Jumbo",
+                "label": "Jumbo"
+            },
+            "measures_0": {
+                "raw": 10454054,
+                "formatted": "10,454,054.00",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Texas",
+                "label": "Texas"
+            },
+            "dimensions_1": {
+                "id": "Sunset",
+                "label": "Sunset"
+            },
+            "measures_0": {
+                "raw": 86030504.7,
+                "formatted": "86,030,504.70",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Veracruz",
+                "label": "Veracruz"
+            },
+            "dimensions_1": {
+                "id": "Even Better",
+                "label": "Even Better"
+            },
+            "measures_0": {
+                "raw": 20061920.8,
+                "formatted": "20,061,920.80",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Veracruz",
+                "label": "Veracruz"
+            },
+            "dimensions_1": {
+                "id": "Hermanos",
+                "label": "Hermanos"
+            },
+            "measures_0": {
+                "raw": 68670628.3,
+                "formatted": "68,670,628.30",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Veracruz",
+                "label": "Veracruz"
+            },
+            "dimensions_1": {
+                "id": "Jumbo",
+                "label": "Jumbo"
+            },
+            "measures_0": {
+                "raw": 6600075.4,
+                "formatted": "6,600,075.40",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Veracruz",
+                "label": "Veracruz"
+            },
+            "dimensions_1": {
+                "id": "Sunset",
+                "label": "Sunset"
+            },
+            "measures_0": {
+                "raw": 60038680.5,
+                "formatted": "60,038,680.50",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Washington",
+                "label": "Washington"
+            },
+            "dimensions_1": {
+                "id": "Even Better",
+                "label": "Even Better"
+            },
+            "measures_0": {
+                "raw": 183008286.7,
+                "formatted": "183,008,286.70",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Washington",
+                "label": "Washington"
+            },
+            "dimensions_1": {
+                "id": "Hermanos",
+                "label": "Hermanos"
+            },
+            "measures_0": {
+                "raw": 628784629.7,
+                "formatted": "628,784,629.70",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Washington",
+                "label": "Washington"
+            },
+            "dimensions_1": {
+                "id": "Jumbo",
+                "label": "Jumbo"
+            },
+            "measures_0": {
+                "raw": 62905532,
+                "formatted": "62,905,532.00",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Washington",
+                "label": "Washington"
+            },
+            "dimensions_1": {
+                "id": "Sunset",
+                "label": "Sunset"
+            },
+            "measures_0": {
+                "raw": 534041676.6,
+                "formatted": "534,041,676.60",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Yucatan",
+                "label": "Yucatan"
+            },
+            "dimensions_1": {
+                "id": "Even Better",
+                "label": "Even Better"
+            },
+            "measures_0": {
+                "raw": 29719314.7,
+                "formatted": "29,719,314.70",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Yucatan",
+                "label": "Yucatan"
+            },
+            "dimensions_1": {
+                "id": "Hermanos",
+                "label": "Hermanos"
+            },
+            "measures_0": {
+                "raw": 103896993.5,
+                "formatted": "103,896,993.50",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Yucatan",
+                "label": "Yucatan"
+            },
+            "dimensions_1": {
+                "id": "Jumbo",
+                "label": "Jumbo"
+            },
+            "measures_0": {
+                "raw": 10659644.2,
+                "formatted": "10,659,644.20",
+                "unit": "USD"
+            }
+        },
+        {
+            "dimensions_0": {
+                "id": "Yucatan",
+                "label": "Yucatan"
+            },
+            "dimensions_1": {
+                "id": "Sunset",
+                "label": "Sunset"
+            },
+            "measures_0": {
+                "raw": 89702775.7,
+                "formatted": "89,702,775.70",
+                "unit": "USD"
+            }
+        }
+    ],
+    "metadata": {
+        "feeds": {
+            "dimensions": {
+                "values": [
+                    "dimensions_0",
+                    "dimensions_1"
+                ],
+                "type": "dimension"
+            },
+            "measures": {
+                "values": [
+                    "measures_0"
+                ],
+                "type": "mainStructureMember"
+            }
+        },
+        "dimensions": {
+            "dimensions_0": {
+                "id": "State",
+                "description": "State"
+            },
+            "dimensions_1": {
+                "id": "Brand",
+                "description": "Brand"
+            }
+        },
+        "mainStructureMembers": {
+            "measures_0": {
+                "id": "Sales",
+                "label": "Sales"
+            }
+        }
+    },
+    "state": "success"
+}
